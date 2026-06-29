@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PowerShell Scripts
+🔭 I’m currently working on PowerShell Scripts<br>
 🌱 I’m currently learning Python, HTML, SQL
 
 ## 🌐 Socials:
